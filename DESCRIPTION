@@ -1,0 +1,12 @@
+Package: nogodb
+Title: Bundle ARU files into a database
+Version: 0.0.0.9000
+Authors@R: 
+    person("Sarah", "Popov", , "sarah.popov@gov.bc.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: A prototype package to take NOGO ARU files (field deployment/retrieval metadata) and BirdNET outputs and bundle them into a database.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
